@@ -8,4 +8,4 @@
   online players for every group / team defined for a given server
 - Ability to manage servers
 
-*** Developed and Maintained by Shaivil P***
+**Developed and Maintained by Shaivil P**
